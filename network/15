@@ -1,0 +1,3 @@
+cat /etc/hosts
+# shows local lost, broadcast host.
+# cat /private/etc/hosts will do the same process.

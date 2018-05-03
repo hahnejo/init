@@ -1,0 +1,3 @@
+scutil --dns | grep 'nameserver\[[0-9]*\]'
+
+# Gives list of DNS servers configured on system.

@@ -1,0 +1,4 @@
+# nat (10.90.1.11)  0.167 ms  0.152 ms  0.128 ms
+# Network address translation (NAT) - method of remapping \
+# one IP address space into another by modiffying network address info \
+# in the IP header of packets while they are in traffic of routing device

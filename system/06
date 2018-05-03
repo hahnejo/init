@@ -1,0 +1,6 @@
+#!/bin/bash
+
+sudo service ssh stop
+sudo service ssh status
+sudo service ssh restart
+sudo service ssh status
