@@ -1,0 +1,3 @@
+crontab -e
+# select the editor that is preferable to use
+# follow the guidelines to execute certain task
