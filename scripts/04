@@ -5,5 +5,5 @@ B='md5sum /etc/crontab'
 
 if [ "$A" != "$B" ]; then
     printf %s\n "File has been modified and incident will be reported to root"
-    main -s "crontab modified" root@IPADDRESS < /etc/crontab
+    mail -s "crontab modified" root@IPADDRESS < /etc/crontab
 fi
